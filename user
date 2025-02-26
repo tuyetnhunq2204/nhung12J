@@ -18,7 +18,7 @@ function login()
 {
   let u=username.value
   let p=pw.value
-  if(u=="bngoc" && p=="200907")
+  if(u=="tuyetnhung" && p=="22042007")
   {
     window.open("home.html")
     document.getElementById(compiler).style.display="block"
