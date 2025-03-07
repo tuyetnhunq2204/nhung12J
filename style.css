@@ -2,3 +2,8 @@ html {
   height: 100%;
   width: 100%;
 }
+h2 { color:pink; font-family:vernada;}
+h3 { color:red; font-family:verdana;}
+label { font-size: 10px;font-weight:bold;}
+input{ backround-color: pink;}
+textarea { backround-color: ivory;}
