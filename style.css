@@ -2,18 +2,18 @@ html {
   height: 100%;
   width: 100%;
 }
-.hi {
+.love {
   color:FF9A9A; 
   background-color: FF9A9A; 
   text-align: center; 
   padding: 25px;
   font-size: 25px; 
 }
-.dau {
+.xinchao {
   display:inline-block ;
   height: 50%
 }
-.trinhdon {
+.bye {
   display: flex;
   background-color: white; 
   padding: 25px;
